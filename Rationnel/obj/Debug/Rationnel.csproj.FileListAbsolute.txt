@@ -1,0 +1,6 @@
+C:\Users\quent\Documents\BTS SNIR\2ème année\Tber\TpsC#\SolutionRationnel\Rationnel\bin\Debug\Rationnel.dll
+C:\Users\quent\Documents\BTS SNIR\2ème année\Tber\TpsC#\SolutionRationnel\Rationnel\bin\Debug\Rationnel.pdb
+C:\Users\quent\Documents\BTS SNIR\2ème année\Tber\TpsC#\SolutionRationnel\Rationnel\obj\Debug\Rationnel.csproj.CoreCompileInputs.cache
+C:\Users\quent\Documents\BTS SNIR\2ème année\Tber\TpsC#\SolutionRationnel\Rationnel\obj\Debug\Rationnel.dll
+C:\Users\quent\Documents\BTS SNIR\2ème année\Tber\TpsC#\SolutionRationnel\Rationnel\obj\Debug\Rationnel.pdb
+C:\Users\quent\Documents\BTS SNIR\2ème année\Tber\TpsC#\SolutionRationnel\Rationnel\obj\Debug\Rationnel.csproj.AssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rationnel", "Rationnel\Rationnel.csproj", "{E6C542F3-56E6-411A-AC9E-F1B1691044C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testRationnel", "testRationnel\testRationnel.csproj", "{B31E7E10-45E7-4400-BCBD-D71F35E8E04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6C542F3-56E6-411A-AC9E-F1B1691044C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C542F3-56E6-411A-AC9E-F1B1691044C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C542F3-56E6-411A-AC9E-F1B1691044C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C542F3-56E6-411A-AC9E-F1B1691044C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31E7E10-45E7-4400-BCBD-D71F35E8E04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31E7E10-45E7-4400-BCBD-D71F35E8E04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31E7E10-45E7-4400-BCBD-D71F35E8E04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31E7E10-45E7-4400-BCBD-D71F35E8E04E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EE036D-0A8D-46BB-9BE5-F102291B1450}
+	EndGlobalSection
+EndGlobal

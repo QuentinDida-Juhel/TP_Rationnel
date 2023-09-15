@@ -29,13 +29,19 @@ namespace testRationnel
             }
             try
             {
-                SRationnel r2 = new SRationnel(-2, -8);
+                SRationnel r2 = new SRationnel(-2, -9);
                 Console.WriteLine(r2.ToString());
+                double d = (double)r2;
+                Console.WriteLine(d.ToString());
+                int n = 125;
+                SRationnel rat = n;
+                Console.WriteLine(rat.ToString());
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
+           
 
         } 
     }

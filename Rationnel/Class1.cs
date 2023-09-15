@@ -52,15 +52,20 @@ namespace Rationnel
             
 
         }
-
+        
         public static explicit operator double(SRationnel sRationnel)
         {
-            return Convert.ToDouble(((double)sRationnel));
+            return Convert.ToDouble(sRationnel.numerateur)/sRationnel.denominateur;
+
+            //double d = ((double)sRationnel.numerateur) / sRationnel.denominateur;
+            //return d;
         }
 
         public static implicit operator SRationnel(int i)
         {
-            return new SRationnel();
+            return new SRationnel(1,i);
+
+            
         }
     }
 
